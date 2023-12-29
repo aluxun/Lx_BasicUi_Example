@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/pic/File.png</file>
+        <file>image/pic/ico_emoji1.png</file>
+        <file>image/pic/ico_emoji2.png</file>
+        <file>image/pic/ico_emoji3.png</file>
+        <file>image/pic/ico_photo.png</file>
+        <file>image/pic/left_photo.jpg</file>
+        <file>image/pic/right_photo.jpg</file>
+        <file>image/pic/1.gif</file>
+        <file>image/pic/2.gif</file>
+        <file>qt/etc/qt.conf</file>
+    </qresource>
+</RCC>
